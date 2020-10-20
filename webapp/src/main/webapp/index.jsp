@@ -3,6 +3,6 @@
 <h2> Glad to see you here </h2>
 
 <h2> Deploying on VM </h2>
-<h3> GitHub commit log </h3>
+
 
 <p> First test changelog </p>
